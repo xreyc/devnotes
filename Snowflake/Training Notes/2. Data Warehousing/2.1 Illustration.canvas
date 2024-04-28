@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"7716526d40ae81fc","type":"text","text":"Security Admin","x":-140,"y":-240,"width":250,"height":60},
+		{"id":"797c7dd9f77c76b5","type":"text","text":"Security Admin","x":-520,"y":-240,"width":250,"height":60},
+		{"id":"c511a3f118a2fed1","type":"text","text":"User admin","x":-520,"y":-136,"width":250,"height":56},
+		{"id":"a7395d4df9508977","type":"text","text":"Account admin","x":-320,"y":-400,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"9fb9aebcb27407a9","fromNode":"a7395d4df9508977","fromSide":"bottom","toNode":"797c7dd9f77c76b5","toSide":"top"},
+		{"id":"a8731ad1e997bdbc","fromNode":"a7395d4df9508977","fromSide":"bottom","toNode":"7716526d40ae81fc","toSide":"top"},
+		{"id":"3f50297c6ea3628c","fromNode":"797c7dd9f77c76b5","fromSide":"bottom","toNode":"c511a3f118a2fed1","toSide":"top"}
+	]
+}

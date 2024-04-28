@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "d575525385b27e4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "73c5c8c3c7b9077a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46cd3c366522aa16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Training Notes/2. Data Warehousing/15. Nested data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2db18349e017fbde",
+    "type": "split",
+    "children": [
+      {
+        "id": "10292266859c9c03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e80d5e8ba52a0e1c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0e161a4c8a392087",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "babe9fbf7231a82d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4dfc5c5f36fe595a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4f93475b393a835",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14c4894249489077",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Training Notes/2. Data Warehousing/15. Nested data.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3e0f1a90f2521074",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Training Notes/2. Data Warehousing/15. Nested data.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ef6b978479be6643",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "060dfcad2dcc6a2c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Training Notes/2. Data Warehousing/15. Nested data.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "46cd3c366522aa16",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Training Notes/2. Data Warehousing/15. Nested data.md",
+    "Training Notes/2. Data Warehousing/14. Semi-structured data.md",
+    "Training Notes/2. Data Warehousing/1. Setup a trial account.md",
+    "Training Notes/1. Concepts/1. Snowflake Solution.md",
+    "Training Notes/2. Data Warehousing/12. Staging.md",
+    "2024-04-26.md",
+    "Training Notes/2. Data Warehousing/13. Data storage structures.md",
+    "Training Notes/2. Data Warehousing/2. Identity, access, users and roles.md",
+    "Training Notes/1. Concepts/2. Snowflake Architecture.md",
+    "Training Notes/2. Data Warehousing/12.1 Staging Copy Into.md",
+    "Training Notes/2. Data Warehousing/11. File formats.md",
+    "Training Notes/2. Data Warehousing/9. Warehouse.md",
+    "Training Notes/2. Data Warehousing/8. Worksheet.md",
+    "Training Notes/2. Data Warehousing/7.1 Command table commands.md",
+    "Training Notes/2. Data Warehousing/7. Tables, data types and loading data.md",
+    "Training Notes/2. Data Warehousing/6. Basic Commands.md",
+    "Training Notes/2. Data Warehousing/5. Data container (Spreadsheet vs Database).md",
+    "Training Notes/2. Data Warehousing/4. Transfer ownership.md",
+    "Training Notes/2. Data Warehousing/3. Create a database.md",
+    "Training Notes/2. Data Warehousing/2.1 Illustration.canvas",
+    "Training Notes/2. Data Warehousing/8.5 Command deleting data.md",
+    "Training Notes/2. Data Warehousing/8.4 Command updating data.md",
+    "Training Notes/2. Data Warehousing/8.3 Command selecting data.md",
+    "Training Notes/2. Data Warehousing/8.2 Command inserting data.md",
+    "2024-04-24.md",
+    "Welcome.md"
+  ]
+}
