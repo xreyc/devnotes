@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "eb589fe97fe62254",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a3b380d799a2959",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3b4ced233dccde6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Module 4 - Network/2. VPC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d6c4f203ffa92238",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e9aa4d9e33ba7a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c0b6667baa0c25a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f4ae7528a4e0704a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5e0ff46dfc6de7c0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6cdfda98dc8104c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "e130f47c9c3753f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa5f61c6281071d4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Module 4 - Network/2. VPC.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e4e7289dec4f10ba",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Module 4 - Network/2. VPC.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "85696b280b05c079",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9a44bff0ba09449b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Module 4 - Network/2. VPC.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a3b4ced233dccde6",
+  "lastOpenFiles": [
+    "Module 4 - Network/1. Introduction.md",
+    "Module 2 - Compute/3. EC2 Pricing.md",
+    "Module 2 - Compute/Untitled.md",
+    "Module 10 - Cloud journey/3. Resources.md",
+    "Module 2 - Compute",
+    "Module 10 - Cloud journey/2. Benefits of AWS cloud.md",
+    "Module 10 - Cloud journey/1. AWS well-architected framework.md",
+    "Module 1 - Introduction/7. Cloud computing models.md",
+    "Module 10 - Cloud journey",
+    "Module 1 - Introduction/6. Resources.md",
+    "Module 1 - Introduction/3. Server client model.md",
+    "Module 1 - Introduction/4. Deployment models.md",
+    "Module 1 - Introduction/5. Benefit of cloud computing.md",
+    "Module 1 - Introduction/2. Cloud computing.md",
+    "Module 1 - Introduction/1. Introduction.md",
+    "Welcome.md",
+    "Module 1 - Introduction"
+  ]
+}
