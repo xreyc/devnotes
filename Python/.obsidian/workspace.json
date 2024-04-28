@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basics/8. OOP.md",
+                "file": "Basics/15. OOP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basics/8. OOP.md",
+                "file": "Basics/15. OOP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basics/8. OOP.md",
+                "file": "Basics/15. OOP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basics/8. OOP.md"
+                "file": "Basics/15. OOP.md"
               }
             }
           }
@@ -149,15 +149,22 @@
   },
   "active": "2688e6b6aa4828bb",
   "lastOpenFiles": [
-    "Basics/7. Loops.md",
-    "Basics/8. OOP.md",
     "Untitled.md",
-    "Basics/1. Variables.md",
-    "Basics/2. Data types.md",
-    "Basics/3. Numbers.md",
-    "Basics/4. String.md",
+    "Basics/15. OOP.md",
+    "Basics/6. Collections and Array.md",
+    "Basics/14. Lambda.md",
+    "Basics/13. Functions.md",
+    "Basics/12. Loops.md",
+    "Basics/11. Conditions.md",
+    "Basics/10. Dictionary.md",
+    "Basics/9. Sets.md",
+    "Basics/8. Tuples.md",
+    "Basics/7. List.md",
     "Basics/5. Boolean.md",
-    "Basics/6. Collections.md",
+    "Basics/4. String.md",
+    "Basics/3. Numbers.md",
+    "Basics/2. Data types.md",
+    "Basics/1. Variables.md",
     "Basics/2. Variables.md",
     "Welcome.md",
     "Basics"
