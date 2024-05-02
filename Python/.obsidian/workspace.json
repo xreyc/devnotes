@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basics/15. OOP.md",
+                "file": "1. Basics/25. Error handling.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basics/15. OOP.md",
+                "file": "1. Basics/25. Error handling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basics/15. OOP.md",
+                "file": "1. Basics/25. Error handling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basics/15. OOP.md"
+                "file": "1. Basics/25. Error handling.md"
               }
             }
           }
@@ -147,26 +147,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2688e6b6aa4828bb",
+  "active": "cbb586069638f1ff",
   "lastOpenFiles": [
+    "2. File Handling",
+    "1. Basics/24. Package Manager.md",
+    "1. Basics/25. Error handling.md",
+    "1. Basics/23. Regex.md",
+    "1. Basics/22. JSON.md",
+    "1. Basics/21. Maths.md",
+    "1. Basics/20. Dates.md",
+    "1. Basics/19. Modules.md",
     "Untitled.md",
-    "Basics/15. OOP.md",
-    "Basics/6. Collections and Array.md",
-    "Basics/14. Lambda.md",
-    "Basics/13. Functions.md",
-    "Basics/12. Loops.md",
-    "Basics/11. Conditions.md",
-    "Basics/10. Dictionary.md",
-    "Basics/9. Sets.md",
-    "Basics/8. Tuples.md",
-    "Basics/7. List.md",
-    "Basics/5. Boolean.md",
-    "Basics/4. String.md",
-    "Basics/3. Numbers.md",
-    "Basics/2. Data types.md",
-    "Basics/1. Variables.md",
-    "Basics/2. Variables.md",
-    "Welcome.md",
-    "Basics"
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "1. Basics/18. Scopes.md",
+    "1. Basics/10. Dictionary.md",
+    "1. Basics/9. Sets.md",
+    "1. Basics/5. Boolean.md",
+    "1. Basics/2. Data types.md",
+    "1. Basics/1. Variables.md",
+    "1. Basics/17. Polymorphism.md",
+    "1. Basics/8. Tuples.md",
+    "1. Basics/7. List.md",
+    "1. Basics/6. Collections and Array.md",
+    "1. Basics/4. String.md",
+    "1. Basics/3. Numbers.md",
+    "1. Basics/16. Iterators.md",
+    "1. Basics/15. OOP.md",
+    "1. Basics/14. Lambda.md",
+    "1. Basics"
   ]
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module 4 - Network/2. VPC.md",
+                "file": "Module 5 - Storage/3. S3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module 4 - Network/2. VPC.md",
+                "file": "Module 5 - Storage/3. S3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module 4 - Network/2. VPC.md",
+                "file": "Module 5 - Storage/3. S3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module 4 - Network/2. VPC.md"
+                "file": "Module 5 - Storage/3. S3.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "a3b4ced233dccde6",
   "lastOpenFiles": [
+    "Module 5 - Storage/5. EFS.md",
+    "Module 5 - Storage/1. Introduction.md",
+    "Module 4 - Network/2. VPC.md",
     "Module 4 - Network/1. Introduction.md",
     "Module 2 - Compute/3. EC2 Pricing.md",
     "Module 2 - Compute/Untitled.md",
