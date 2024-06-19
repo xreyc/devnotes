@@ -1,0 +1,14 @@
+SOLID, KISS, DRY, YAGNI
+
+1. **SOLID**: This stands for five design principles intended to make software designs more understandable, flexible, and maintainable. The five principles are:
+    
+    1. **Single Responsibility Principle (SRP)**: This principle states that a class should have only one reason to change, meaning it should have only one responsibility. In other words, a class should encapsulate one and only one aspect of functionality. This makes classes easier to understand, maintain, and test.
+    2. **Open/Closed Principle (OCP)**: This principle states that software entities (classes, modules, functions, etc.) should be open for extension but closed for modification. This means that you should be able to extend the behavior of a system without modifying its existing code. This is typically achieved through the use of abstraction and polymorphism.
+	3. **Liskov Substitution Principle (LSP)**: This principle states that objects of a superclass should be replaceable with objects of its subclasses without affecting the correctness of the program. In other words, a subclass should be able to be substituted for its superclass without altering the desirable properties of the program. This ensures that inheritance hierarchies are well-designed and maintain the "is-a" relationship.
+	4. **Interface Segregation Principle (ISP)**: This principle states that clients should not be forced to depend on interfaces they do not use. In other words, it's better to have many small, specific interfaces than one large, general-purpose interface. This helps to avoid coupling between components and reduces the impact of changes.
+	5. **Dependency Inversion Principle (DIP)**: This principle states that high-level modules should not depend on low-level modules; both should depend on abstractions. Additionally, abstractions should not depend on details; details should depend on abstractions. This promotes loose coupling between modules, making the codebase more flexible and easier to maintain.
+1. **KISS**: "Keep It Simple, Stupid." This principle advocates for simplicity in design. Complex solutions tend to have more potential points of failure and are harder to understand and maintain.
+    
+3. **DRY**: "Don't Repeat Yourself." This principle states that every piece of knowledge must have a single, unambiguous, authoritative representation within a system. It aims to reduce redundancy and improve maintainability.
+    
+4. **YAGNI**: "You Aren't Gonna Need It." This principle advises against adding functionality until it's necessary. In other words, don't implement features based on speculation of future requirements. Instead, implement only what's needed now and refactor as necessary when new requirements arise.

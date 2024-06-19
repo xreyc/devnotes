@@ -1,39 +1,52 @@
 {
   "main": {
-    "id": "d575525385b27e4a",
+    "id": "22006835951c12d9",
     "type": "split",
     "children": [
       {
-        "id": "de13e9995fd6beb6",
+        "id": "e51f6b1168a65fe9",
         "type": "tabs",
         "children": [
           {
-            "id": "1272d68382c50bc9",
+            "id": "02dcbcaa3ec8e98a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Training Notes/4. Data Application Builder/2. Exercise 1.md",
+                "file": "Job Applications/2. Three Peaks International - Not Selected.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7585fff7f7b6c1ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dart Review/2. Operators.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "2db18349e017fbde",
+    "id": "2a67a3b7292320b7",
     "type": "split",
     "children": [
       {
-        "id": "10292266859c9c03",
+        "id": "bf36678c34cf4351",
         "type": "tabs",
         "children": [
           {
-            "id": "e80d5e8ba52a0e1c",
+            "id": "c572837c57e62098",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +56,7 @@
             }
           },
           {
-            "id": "0e161a4c8a392087",
+            "id": "8d9c4fba61a4ab5e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +71,7 @@
             }
           },
           {
-            "id": "babe9fbf7231a82d",
+            "id": "af6932d85885df9a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +82,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 372.5
   },
   "right": {
-    "id": "4dfc5c5f36fe595a",
+    "id": "6efa68c706b3c51b",
     "type": "split",
     "children": [
       {
-        "id": "d4f93475b393a835",
+        "id": "0f319d3d9cbc9e03",
         "type": "tabs",
         "children": [
           {
-            "id": "14c4894249489077",
+            "id": "d495857f2463e39b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training Notes/4. Data Application Builder/2. Exercise 1.md",
+                "file": "Dart Review/2. Operators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +110,19 @@
             }
           },
           {
-            "id": "3e0f1a90f2521074",
+            "id": "a546f4c030032770",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Training Notes/4. Data Application Builder/2. Exercise 1.md",
+                "file": "Dart Review/2. Operators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "ef6b978479be6643",
+            "id": "e528aafd1186d4a8",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +133,12 @@
             }
           },
           {
-            "id": "060dfcad2dcc6a2c",
+            "id": "61e2967a04d795c7",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Training Notes/4. Data Application Builder/2. Exercise 1.md"
+                "file": "Dart Review/2. Operators.md"
               }
             }
           }
@@ -146,37 +159,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1272d68382c50bc9",
+  "active": "c572837c57e62098",
   "lastOpenFiles": [
-    "Training Notes/4. Data Application Builder/1. Create Streamlit app.md",
-    "Training Notes/4. Data Application Builder/2. Exercise 1.md",
-    "Training Notes/3. Collaboration and Cost/6. Exercise 3.md",
-    "Training Notes/2. Data Warehousing/7.1 Command table commands.md",
-    "Training Notes/2. Data Warehousing/7. Tables, data types and loading data.md",
-    "Training Notes/2. Data Warehousing/4. Transfer ownership.md",
-    "Training Notes/2. Data Warehousing/3. Create a database.md",
-    "Training Notes/3. Collaboration and Cost/7. Data Sharing.md",
-    "Training Notes/3. Collaboration and Cost/5. Database testing.md",
-    "Training Notes/3. Collaboration and Cost/4. Exercise 2.md",
-    "Training Notes/3. Collaboration and Cost/3. Joining local and shared database.md",
-    "Training Notes/3. Collaboration and Cost/2. Exercise 1.md",
-    "Training Notes/3. Collaboration and Cost/1. Grant database access.md",
-    "Training account.md",
-    "Training Notes/2. Data Warehousing/12.1 Staging Copy Into.md",
-    "Training Notes/2. Data Warehousing/12. Staging.md",
-    "Training Notes/2. Data Warehousing/5. Data container (Spreadsheet vs Database).md",
-    "Training Notes/2. Data Warehousing/1. Setup a trial account.md",
-    "Training Notes/2. Data Warehousing/15. Nested data.md",
-    "Training Notes/3. Collaboration and Cost",
-    "Untitled",
-    "Training Notes/4. Data Application Builder",
-    "Training Notes/2. Data Warehousing/14. Semi-structured data.md",
-    "Training Notes/1. Concepts/1. Snowflake Solution.md",
-    "2024-04-26.md",
-    "Training Notes/2. Data Warehousing/13. Data storage structures.md",
-    "Training Notes/2. Data Warehousing/2. Identity, access, users and roles.md",
-    "Training Notes/1. Concepts/2. Snowflake Architecture.md",
-    "Training Notes/2. Data Warehousing/11. File formats.md",
-    "Training Notes/2. Data Warehousing/2.1 Illustration.canvas"
+    "Dart Review/1. Variables and Datatypes.md",
+    "Dart Review/2. Operators.md",
+    "Interview Challenges/1. Fibonacci Series.md",
+    "Dart Review",
+    "Job Applications/3. Elite Talent Recruitment.md",
+    "Interview Challenges",
+    "Job Applications/1. Subscrbe AI, Inc - Not Selected.md",
+    "Job Applications/5. Castle Digital.md",
+    "Job Applications/2. Three Peaks International - Not Selected.md",
+    "Job Applications/3. NodeFlair.md",
+    "Complete Features.md",
+    "Job Applications",
+    "Welcome.md"
   ]
 }

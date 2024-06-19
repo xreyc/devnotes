@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "fd853eef3c17a5a4",
+    "id": "242dc8a953dfff48",
     "type": "split",
     "children": [
       {
-        "id": "f0b31cb6d96dbf24",
+        "id": "e425b891a9c80c68",
         "type": "tabs",
         "children": [
           {
-            "id": "2688e6b6aa4828bb",
+            "id": "a85d4d71b885373f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Basics/25. Error handling.md",
+                "file": "Flutter/CICD/4. Flutter To S3.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "73a9a0a4b4761d09",
+    "id": "f0164ba0f3f1a2fd",
     "type": "split",
     "children": [
       {
-        "id": "757bf382ed112422",
+        "id": "d6a8c5d0221a4c2f",
         "type": "tabs",
         "children": [
           {
-            "id": "cbb586069638f1ff",
+            "id": "3803b38442a843db",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "adb418666434cb9d",
+            "id": "a8a47a9f0177c5cc",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "b2e5fe64b7a256c4",
+            "id": "ee54a2182d9d918c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "2f9c107df1d0dc6a",
+    "id": "c1cc1fb05a866396",
     "type": "split",
     "children": [
       {
-        "id": "64954287a95c1f9e",
+        "id": "326289d33f6073c6",
         "type": "tabs",
         "children": [
           {
-            "id": "a25cb83102e6e9db",
+            "id": "0a7c4cfe52e05854",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Basics/25. Error handling.md",
+                "file": "Flutter/CICD/4. Flutter To S3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "27561dbae9ef6792",
+            "id": "340c921ebefd097d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Basics/25. Error handling.md",
+                "file": "Flutter/CICD/4. Flutter To S3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "b222ce7bc57d07cc",
+            "id": "027028a684c1210e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,17 +120,16 @@
             }
           },
           {
-            "id": "1b0bd125bc2c5d41",
+            "id": "d8dcd7c365f319e9",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Basics/25. Error handling.md"
+                "file": "Flutter/CICD/4. Flutter To S3.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,34 +146,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cbb586069638f1ff",
+  "active": "a85d4d71b885373f",
   "lastOpenFiles": [
-    "2. File Handling",
-    "1. Basics/24. Package Manager.md",
-    "1. Basics/25. Error handling.md",
-    "1. Basics/23. Regex.md",
-    "1. Basics/22. JSON.md",
-    "1. Basics/21. Maths.md",
-    "1. Basics/20. Dates.md",
-    "1. Basics/19. Modules.md",
+    "Job Applications/8. Full Scale.md",
+    "Flutter/CICD/4. Flutter To S3.md",
     "Untitled.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "1. Basics/18. Scopes.md",
-    "1. Basics/10. Dictionary.md",
-    "1. Basics/9. Sets.md",
-    "1. Basics/5. Boolean.md",
-    "1. Basics/2. Data types.md",
-    "1. Basics/1. Variables.md",
-    "1. Basics/17. Polymorphism.md",
-    "1. Basics/8. Tuples.md",
-    "1. Basics/7. List.md",
-    "1. Basics/6. Collections and Array.md",
-    "1. Basics/4. String.md",
-    "1. Basics/3. Numbers.md",
-    "1. Basics/16. Iterators.md",
-    "1. Basics/15. OOP.md",
-    "1. Basics/14. Lambda.md",
-    "1. Basics"
+    "Jest/3. Test with express.md",
+    "Jest/1. Installation.md",
+    "Jest/2. Functions.md",
+    "Programming Priciples/Algorithms.md",
+    "Flutter/CICD/3. ECS - Fargate.md",
+    "Flutter/CICD/2. ECS - EC2.md",
+    "Flutter/CICD/1. Elastic Beanstalk.md",
+    "Next/3. Server-side static pages.md",
+    "Flutter/CICD",
+    "Flutter",
+    "Untitled",
+    "Next/2. Server-side dynamic pages.md",
+    "Next/1. Server-side rendering.md",
+    "Programming Priciples/Logic.md",
+    "Programming Priciples/Programming priciples.md",
+    "Python/1. Basics/1. Variables.md",
+    "Next",
+    "Django",
+    "Python/1. Basics/8. Tuples.md",
+    "Python/1. Basics/9. Sets.md",
+    "Python/1. Basics/6. Collections and Array.md",
+    "Python/1. Basics/7. List.md",
+    "Python/1. Basics/5. Boolean.md",
+    "Python/1. Basics/4. String.md",
+    "Python/1. Basics/25. Error handling.md",
+    "Python/1. Basics/3. Numbers.md",
+    "Python/1. Basics/24. Package Manager.md",
+    "Python/1. Basics/23. Regex.md",
+    "Python/2. File Handling",
+    "Python/1. Basics",
+    "Python",
+    "Programming Priciples",
+    "Jest"
   ]
 }
