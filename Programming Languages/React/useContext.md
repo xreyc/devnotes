@@ -17,7 +17,6 @@ function UserContextProvider({children}) {
   );
 }
 ```
-
 #### Provider the user context on the app
 ```jsx
 import { useState } from "react";

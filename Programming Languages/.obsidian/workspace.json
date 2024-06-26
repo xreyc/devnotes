@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/CICD/4. Flutter To S3.md",
+                "file": "Flutter/CICD/4. Flutter Web to S3 with CodeCommit, Codepipeline, Codebuild, and CodeDeploy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fdf08c401d74c293",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flutter/CICD/4. Flutter Web to S3 with CodeCommit, Codepipeline, Codebuild, and CodeDeploy.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/CICD/4. Flutter To S3.md",
+                "file": "Flutter/CICD/4. Flutter Web to S3 with CodeCommit, Codepipeline, Codebuild, and CodeDeploy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/CICD/4. Flutter To S3.md",
+                "file": "Flutter/CICD/4. Flutter Web to S3 with CodeCommit, Codepipeline, Codebuild, and CodeDeploy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/CICD/4. Flutter To S3.md"
+                "file": "Flutter/CICD/4. Flutter Web to S3 with CodeCommit, Codepipeline, Codebuild, and CodeDeploy.md"
               }
             }
           }
@@ -146,14 +159,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a85d4d71b885373f",
+  "active": "fdf08c401d74c293",
   "lastOpenFiles": [
+    "Next/1. Server-side rendering.md",
+    "CICD",
+    "Next/3. Server-side static pages.md",
+    "Next/2. Server-side dynamic pages.md",
+    "React/useCallback.md",
+    "React/useMemo.md",
+    "React/useReducer.md",
+    "React/useContext.md",
+    "React/Summary.md",
+    "Job Applications/1. Subscrbe AI, Inc - Not Selected.md",
+    "Flutter/CICD/4. Flutter Web to S3 with CodeCommit, Codepipeline, Codebuild, and CodeDeploy.md",
+    "Untitled.md",
+    "Pasted image 20240619204456.png",
     "Pasted image 20240619204519.png",
     "Pasted image 20240619204508.png",
-    "Pasted image 20240619204456.png",
     "Job Applications/8. Full Scale.md",
-    "Flutter/CICD/4. Flutter To S3.md",
-    "Untitled.md",
     "Jest/3. Test with express.md",
     "Jest/1. Installation.md",
     "Jest/2. Functions.md",
@@ -161,12 +184,8 @@
     "Flutter/CICD/3. ECS - Fargate.md",
     "Flutter/CICD/2. ECS - EC2.md",
     "Flutter/CICD/1. Elastic Beanstalk.md",
-    "Next/3. Server-side static pages.md",
     "Flutter/CICD",
     "Flutter",
-    "Untitled",
-    "Next/2. Server-side dynamic pages.md",
-    "Next/1. Server-side rendering.md",
     "Programming Priciples/Logic.md",
     "Programming Priciples/Programming priciples.md",
     "Python/1. Basics/1. Variables.md",
@@ -175,12 +194,6 @@
     "Python/1. Basics/8. Tuples.md",
     "Python/1. Basics/9. Sets.md",
     "Python/1. Basics/6. Collections and Array.md",
-    "Python/1. Basics/7. List.md",
-    "Python/1. Basics/5. Boolean.md",
-    "Python/1. Basics/4. String.md",
-    "Python/1. Basics/25. Error handling.md",
-    "Python/1. Basics/3. Numbers.md",
-    "Python/1. Basics/24. Package Manager.md",
     "Python/2. File Handling",
     "Python/1. Basics",
     "Python",
